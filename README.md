@@ -1,11 +1,11 @@
 <!-- Profile Header with animated banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola!%20Soy%20Malcova34&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hello!%20I'm%20Malcova34&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
 </div>
 
 <!-- Animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desarrollador+Full+Stack;Apasionado+por+la+Tecnología;Siempre+Aprendiendo+Nuevas+Cosas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <!-- About Me Section -->

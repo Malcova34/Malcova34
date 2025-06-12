@@ -17,17 +17,17 @@ Hi, I'm **Malcova34**
 I’m a Computer Engineering student, currently halfway through my degree. I’m expanding my skills in both front-end and back-end development, and I work as a freelance software developer. I love learning and building new, productive, innovative, and creative solutions.
 
 ### 🌱 I'm currently learning ...
-- **Azure**
-- **Angular**
+○ **Azure**
+○ **Angular**
 
-### 👯 I'm looking forward to collaborating on open source projects.
+- ### 👯 I'm looking forward to collaborating on open source projects.
 
-### ✔ Feel free to ask me anything — I'm happy to help.
+- ### ✔ Feel free to ask me anything — I'm happy to help.
 
-Outside of tech, 🎾 I love playing tennis, 🎮 video games, 🎵 listening to music, and 📖 reading history books.
+- Outside of tech, 🎾 I love playing tennis, 🎮 video games, 🎵 listening to music, and 📖 reading history books.
 
-### 📫 Reach out to me at: 
-**danielflozanos25@gmail.com**
+- ### 📫 Reach out to me at: **danielflozanos25@gmail.com**
+
 
 <!-- Skills Section with icons -->
 ## 🛠️ Technologies & Tools
